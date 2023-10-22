@@ -1,0 +1,12 @@
+class Bagel {
+    init(bread) {
+        this.bread = bread;
+    }
+    eat() {
+        print "Eating";
+    }
+}
+
+var bagel = Bagel(false);
+print bagel.bread;
+bagel.eat();
