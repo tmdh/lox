@@ -17,7 +17,7 @@ Lox is a simple, dynamically typed scripting language created by Bob Nystrom in 
 
 ## Example Code
 
-```
+```python
 class Doughnut {
     cook() {
         print "Fry until golden brown.";
